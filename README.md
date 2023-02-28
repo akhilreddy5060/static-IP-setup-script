@@ -1,0 +1,1 @@
+# static-IP-setup-script
